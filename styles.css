@@ -1,0 +1,41 @@
+.nav{
+    background: black;
+    height: 12vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header1{
+    border: solid 1px white;
+    height: 90%;
+    width: 13%;
+}
+.navcontainers{
+    border: solid 1px red;
+    height: 90%;
+    width: 45%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 88vh;
+    width: 100%;
+}
+
+.myplant{
+    border: red 1px solid;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+
+
+}
